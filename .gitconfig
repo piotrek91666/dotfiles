@@ -1,0 +1,11 @@
+[user]
+	name = Piotr Grzeszczak
+	email = piotrek32@gmail.com
+[credential]
+	helper = cache --timeout=3600
+[core]
+	editor = nano
+[color]
+	ui = auto
+[github]
+	user = piotrek91666
