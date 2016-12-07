@@ -5,7 +5,7 @@
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
-# Colors is simple
+# Colors are simple
 GREY="\[\e[0m\]"
 CYAN="\[\e[0;36m\]"
 YELLOW="\[\e[0;33m\]"
